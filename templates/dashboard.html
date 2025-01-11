@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+<form action="/logout" method="POST" class="form">
+    <div class="card">
+    <div class="heading">This is your dashboard!Welcome</div>
+    <button onclick="window.location.href='/logout'" class="btn" ><span>Logout</span></button>
+</div>
+</form>
+{% endblock %}
