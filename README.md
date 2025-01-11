@@ -63,13 +63,13 @@ python app.py
 ```
 ## Access the Application
 
-  ** Register a new user at /register. **
+  Register a new user at /register. 
 
-  ** Log in at /login.**
+  Log in at /login.
 
-  ** Access the dashboard at /dashboard (requires login).**
+  Access the dashboard at /dashboard (requires login).
 
-  ** Request a password reset at /forgetpassword.**
+  Request a password reset at /forgetpassword.
 
 ## Notes
 
