@@ -34,7 +34,7 @@ This is a Python Flask web application that provides user authentication feature
 
 ## Setup Instructions
 
-Clone the Repository**:
+Clone the Repository:
    ```bash
    git clone <repository-url>
    cd <repository-folder>
